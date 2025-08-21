@@ -1,2 +1,11 @@
 # web_lab_101
-Just some hacking challenge for ya
+
+A small hacking challenge for you 🔥
+
+
+
+## How to Run
+
+Just run
+
+ ```sudo bash run```
