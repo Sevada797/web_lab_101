@@ -12,8 +12,7 @@ $TITLE = $TITLE ?? "App";
 <header class="header">
   <nav class="nav container">
     <a href="/">Home</a>
-    <a href="/login">Login</a>
-    <a href="/register">Register</a>
+    <a href="/login.php">Login</a>
     <span class="badge">CTF</span>
   </nav>
 </header>

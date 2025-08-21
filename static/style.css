@@ -47,7 +47,7 @@ body{
 .row{display:flex;gap:12px;flex-wrap:wrap}
 .btn{
   display:inline-flex;align-items:center;gap:8px; padding:10px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.08);
-  background:linear-gradient(180deg, rgba(110,231,183,.18), rgba(110,231,183,.1)); color:#052e2b;font-weight:700;cursor:pointer
+  background:linear-gradient(180deg, rgba(110,231,183,.18), rgba(110,231,183,.1)); color:#6acfa7;font-weight:700;cursor:pointer
 }
 .btn:hover{filter:brightness(1.05)}
 .btn.secondary{background:linear-gradient(180deg, rgba(96,165,250,.2), rgba(96,165,250,.1)); color:#0b2a4a}
@@ -60,7 +60,7 @@ body{
 .alert.ok{background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.45)}
 .alert.bad{background:rgba(248,113,113,.12);border:1px solid rgba(248,113,113,.45)}
 
-.footer{opacity:.6;font-size:12px;margin:28px 0}
+.footer{opacity:.6;font-size:12px;margin:0 auto}
 
 .code{font-family:var(--mono);background:rgba(255,255,255,.05);padding:10px 12px;border-radius:10px;overflow:auto}
 .small{font-size:12px;color:var(--text-dim)}
