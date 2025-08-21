@@ -2,7 +2,7 @@
 
 A small hacking challenge for you 🔥
 
-
+---
 
 ## How to Run
 
